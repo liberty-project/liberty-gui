@@ -1,0 +1,3 @@
+[submodule "naos"]
+	path = naos
+	url = https://github.com/naos-project/naos
